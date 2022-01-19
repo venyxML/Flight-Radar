@@ -1,0 +1,10 @@
+name: MCFlightRadar
+version: ${project.version}
+main: io.github.venyxml.mcflightradar.MCFlightRadar
+api-version: 1.18
+authors: [ venyx ]
+description: lets you know what flying machine is nearby
+commands:
+  fr:
+    description: Controls what you're doing I guess
+    usage: /<command> <action> [lat] [long]
