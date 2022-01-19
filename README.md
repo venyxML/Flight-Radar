@@ -24,8 +24,10 @@ FlightRadar-1.18.1r1.jar
 <!-- GETTING STARTED -->
 ## How to Install
 
-1. Download the appropriate .jar file for your version and place in your server's plugins folder 
+1. Download the appropriate .jar file for your version and place in your server's plugins folder* 
 2. Run your Spigot-based server
+
+<i>If you're new to github, just click the file and a download button should show up above it and to the right</i>
 
 Yeah this one doesn't really have a lot of extra steps so that's cool :)
 
