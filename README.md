@@ -1,12 +1,6 @@
 # Flight-Radar
 
-it really just warns you when there's a plane nearby, nothing else
-
-<br />
-<!-- ABOUT THE PROJECT -->
-## About The Plugin
-
-A useless Spigot plugin that notifies you when a plane is over a specificied location (within 5 miles).
+it really just warns you when there's a plane nearby (within 5 miles), nothing else
 
 ## Versions Supported & Tested
 
@@ -31,7 +25,7 @@ FlightRadar-1.18.1r1.jar
 ## How to Install
 
 1. Download the appropriate .jar file for your version and place in your server's plugins folder 
-2. Run your Spigot server
+2. Run your Spigot-based server
 
 Yeah this one doesn't really have a lot of extra steps so that's cool :)
 
