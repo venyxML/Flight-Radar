@@ -8,7 +8,7 @@ it really just warns you when there's a plane nearby, nothing else
 
 A useless Spigot plugin that notifies you when a plane is over a specificied location (within 5 miles).
 
-### Versions Supported & Tested
+## Versions Supported & Tested
 
 *! denotes untested versions, please email me if there's concerns
 
