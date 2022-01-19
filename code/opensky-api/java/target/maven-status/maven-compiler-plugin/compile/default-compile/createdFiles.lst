@@ -1,0 +1,8 @@
+org\opensky\model\OpenSkyStatesDeserializer.class
+org\opensky\api\OpenSkyApi$BasicAuthInterceptor.class
+org\opensky\model\StateVector.class
+org\opensky\api\OpenSkyApi$REQUEST_TYPE.class
+org\opensky\model\StateVector$PositionSource.class
+org\opensky\api\OpenSkyApi$BoundingBox.class
+org\opensky\api\OpenSkyApi.class
+org\opensky\model\OpenSkyStates.class
